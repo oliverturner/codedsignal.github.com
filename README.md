@@ -1,2 +1,0 @@
-codedsignal.github.com
-======================
