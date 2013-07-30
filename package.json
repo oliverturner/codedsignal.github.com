@@ -4,11 +4,11 @@
   "version": "0.0.1",
   "author": "Oliver Turner <oliver.turner@codedsignal.co.uk>",
   "description": "Github page",
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Oliver Turner",
       "email": "marak@nodejitsu.com"
-    } 
+    }
   ],
   "repository": {
     "type": "git",
@@ -17,11 +17,14 @@
   "keywords": [
     "codedsignal"
   ],
-  "dependencies" : {
-  },
+  "dependencies": {},
   "analyze": false,
   "devDependencies": {
-  },  
+    "grunt": "~0.4.1",
+    "mocha": "~1.12.0",
+    "matchdep": "~0.1.2",
+    "grunt-exec": "~0.4.2"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=0.8"
