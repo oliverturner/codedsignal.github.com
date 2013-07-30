@@ -1,0 +1,29 @@
+{
+  "name": "codedsignal",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Oliver Turner <oliver.turner@codedsignal.co.uk>",
+  "description": "Github page",
+  "contributors": [ 
+    {
+      "name": "Oliver Turner",
+      "email": "marak@nodejitsu.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:codedsignal/codedsignal.github.com.git"
+  },
+  "keywords": [
+    "codedsignal"
+  ],
+  "dependencies" : {
+  },
+  "analyze": false,
+  "devDependencies": {
+  },  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
